@@ -1,0 +1,5 @@
+{
+
+	"main": "com.nhncorp.test.SocketIOSErverTest",
+	"includes": "socket.io"
+}

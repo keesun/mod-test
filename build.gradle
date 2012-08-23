@@ -29,7 +29,7 @@ configurations {
 }
 
 repositories {
-  flatDir name:'ExternalJars',dirs:'/workspace/mod-test/lib'
+  flatDir name:'ExternalJars',dirs:"$lib"
   maven { url 'https://oss.sonatype.org/content/repositories/snapshots' }
   mavenCentral()
 }

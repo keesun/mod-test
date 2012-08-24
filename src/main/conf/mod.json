@@ -1,5 +1,4 @@
 {
-
-	"main": "com.nhncorp.test.SocketIOSErverTest",
-	"includes": "socket.io"
+	"main": "com.nhncorp.test.SocketIoServerTest",
+	"includes": "nhn.socket.io-v1.0"
 }
